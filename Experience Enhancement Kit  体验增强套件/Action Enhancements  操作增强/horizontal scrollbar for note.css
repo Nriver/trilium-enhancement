@@ -1,0 +1,29 @@
+/*
+    from https://github.com/zadam/trilium/discussions/4706
+    shift加鼠标滚轮可以快速横向滚动！这个css对移动端也有效，很好用
+    Use shift + scroll to scoll horizontally, also works for mobile UI
+
+    Thanks to SiriusXT
+*/
+
+.tree-wrapper.component .tree{
+    overflow-x: auto;
+    position: relative;
+}
+.tree-wrapper.component #ft-id-1{
+    position: absolute;
+}
+
+.tree-wrapper.component .tree-actions{
+    bottom: 12px;
+    right: 12px;
+}
+
+::-webkit-scrollbar {
+    height: 12px;
+}
+
+
+#right-pane div.card-body div.toc-widget span.toc li{
+    overflow: visible;
+}

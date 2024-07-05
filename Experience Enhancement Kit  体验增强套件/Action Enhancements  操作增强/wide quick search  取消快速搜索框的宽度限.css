@@ -1,0 +1,8 @@
+/*
+    搜索框显示完整路径    
+    quick search with no width limit
+    by Nriver
+*/
+.quick-search .dropdown-menu {
+    max-width: none !important;
+}

@@ -1,0 +1,22 @@
+/*
+    修改自 https://github.com/Nriver/awesome-trilium/issues/30    
+    Moded from https://github.com/Nriver/awesome-trilium/issues/30
+
+    mod by Nriver
+*/
+
+/*
+    有日记的日期颜色修改
+    color of days which have journal
+*/
+.calendar-dropdown-widget .calendar-date-exists{
+    color: deepskyblue !important;
+}
+
+/* 
+    今天的样式
+    today's color
+*/
+a.calendar-date.calendar-date-exists.calendar-date-today{
+    color: #FF571F !important;
+}

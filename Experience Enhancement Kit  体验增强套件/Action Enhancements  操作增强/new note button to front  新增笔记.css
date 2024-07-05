@@ -1,0 +1,20 @@
+/*
+    新增笔记的按钮移到标题前面来，方便点击，避免使用`笔记树横向滚动条`时新增按钮到屏幕外面去了
+    move add note button to front, in case `horizontal scrollbar for note tree` makes the button out of the panel
+
+    by Nriver
+*/
+.desktop .add-note-button{
+    position: absolute;
+    left: -1;
+    margin-left: 12px !important;
+}
+
+.mobile .add-note-button{
+    position: absolute;
+    left: -1;
+    margin-left: 28px !important;
+}
+.mobile .fancytree-expander{
+    margin-right: 20px;
+}

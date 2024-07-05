@@ -1,0 +1,9 @@
+/*
+    `@` 笔记的时候当前选择的笔记会高亮显示
+    highlight `@` command's current option
+    by Nriver
+*/
+.ck-balloon-panel .ck-mentions .ck-button.ck-on {
+    background-color: var(--ck-color-base-active-focus) !important;
+    color: var(--active-item-text-color) !important;
+}

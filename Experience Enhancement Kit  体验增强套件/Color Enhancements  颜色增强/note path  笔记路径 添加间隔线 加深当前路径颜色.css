@@ -1,0 +1,23 @@
+/* 
+    强化克隆笔记的笔记路径显示
+    enchance note path of cloned notes
+    by Nriver
+*/
+
+.note-path-list ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.note-path-list li {
+    border-bottom: 1px solid var(--main-text-color);
+    padding: 4px 0;
+}
+/* 最后一个li不显示底部边框 */
+.note-path-list li:last-child {
+    border-bottom: none;
+}
+
+.note-path-list .path-current a{
+    color: #FF571F;
+}
