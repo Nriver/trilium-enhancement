@@ -21,9 +21,11 @@ Trilium Notes 的体验增强工具包
 ### 标题背景
 
 默认:
+
 ![](docs/title-default.webp)
 
 增强:
+
 ![](docs/title.webp)
 
 改编自 https://github.com/SiriusXT/trilium-theme-blue，感谢 SiriusXT！
@@ -31,9 +33,11 @@ Trilium Notes 的体验增强工具包
 ### 日历
 
 默认:
+
 ![](docs/calendar-default.webp)
 
 增强:
+
 ![](docs/calendar.webp)
 
 改编自 https://github.com/Nriver/awesome-trilium/issues/30，感谢 XXXJetfireXXX！
@@ -41,9 +45,11 @@ Trilium Notes 的体验增强工具包
 ### @ 选项
 
 黑暗主题下的默认 `@` 选项:
+
 ![](docs/at-option-default.webp)
 
 增强:
+
 ![](docs/at-option.webp)
 
 由 Nriver 提供
@@ -53,9 +59,11 @@ Trilium Notes 的体验增强工具包
 使克隆笔记的路径更易区分。
 
 默认:
+
 ![](docs/note-clone-path-default.webp)
 
 增强:
+
 ![](docs/note-clone-path.webp)
 
 由 Nriver 提供
@@ -65,9 +73,11 @@ Trilium Notes 的体验增强工具包
 ### 笔记树横向滚动条
 
 默认:
+
 ![](docs/note-tree-scroll-default.webp)
 
 增强:
+
 ![](docs/note-tree-scroll.webp)
 
 来自 https://github.com/zadam/trilium/discussions/4706，感谢 SiriusXT
@@ -77,9 +87,11 @@ Trilium Notes 的体验增强工具包
 将添加笔记按钮移动到前面，以防 `笔记树的水平滚动条` 使按钮超出面板。另外，减少了误点击新建笔记按钮的可能性。
 
 默认:
+
 ![](docs/new-note-button-default.webp)
 
 增强:
+
 ![](docs/new-note-button.webp)
 
 由 Nriver 提供
@@ -89,9 +101,11 @@ Trilium Notes 的体验增强工具包
 无限宽度的快速搜索。现在你可以看到所有内容。
 
 默认:
+
 ![](docs/search-bar-default.webp)
 
 增强:
+
 ![](docs/search-bar.webp)
 
 它同样适用于前一个截图中看到的 `@ 选项`。

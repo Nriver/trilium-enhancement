@@ -21,9 +21,11 @@ My Trilium is quite different from yours :) I'm here to share some of my creatio
 ### Title Background
 
 Default:
+
 ![](docs/title-default.webp)
 
 Enhanced:
+
 ![](docs/title.webp)
 
 Modified from https://github.com/SiriusXT/trilium-theme-blue, thanks to SiriusXT!
@@ -31,9 +33,11 @@ Modified from https://github.com/SiriusXT/trilium-theme-blue, thanks to SiriusXT
 ### Calendar
 
 Default:
+
 ![](docs/calendar-default.webp)
 
 Enhanced:
+
 ![](docs/calendar.webp)
 
 Modified from https://github.com/Nriver/awesome-trilium/issues/30, thanks to XXXJetfireXXX!
@@ -41,9 +45,11 @@ Modified from https://github.com/Nriver/awesome-trilium/issues/30, thanks to XXX
 ### @ Option
 
 The default `@` option in Dark theme:
+
 ![](docs/at-option-default.webp)
 
 Enhanced:
+
 ![](docs/at-option.webp)
 
 By Nriver
@@ -53,9 +59,11 @@ By Nriver
 Make the cloned note paths more distinguishable.
 
 Default:
+
 ![](docs/note-clone-path-default.webp)
 
 Enhanced:
+
 ![](docs/note-clone-path.webp)
 
 By Nriver
@@ -65,9 +73,11 @@ By Nriver
 ### Note Tree Scroll Bar
 
 Default:
+
 ![](docs/note-tree-scroll-default.webp)
 
 Enhanced:
+
 ![](docs/note-tree-scroll.webp)
 
 From https://github.com/zadam/trilium/discussions/4706, thanks to SiriusXT
@@ -77,9 +87,11 @@ From https://github.com/zadam/trilium/discussions/4706, thanks to SiriusXT
 Move the add note button to the front, in case the `horizontal scrollbar for note tree` makes the button go out of the panel. Also, the possibility of hitting the new note button by mistake is reduced.
 
 Default:
+
 ![](docs/new-note-button-default.webp)
 
 Enhanced:
+
 ![](docs/new-note-button.webp)
 
 By Nriver
@@ -89,9 +101,11 @@ By Nriver
 Quick search with no width limit. You can see everything now.
 
 Default:
+
 ![](docs/search-bar-default.webp)
 
 Enhanced:
+
 ![](docs/search-bar.webp)
 
 It also works for the `@ option` which you can see in the previous screenshot.
