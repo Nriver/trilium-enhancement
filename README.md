@@ -2,12 +2,6 @@ Here is the revised version with corrected spelling and grammar:
 
 # Trilium Enhancement
 
-[中文说明](README_CN.md)
-
-Please stand up and stretch your body for a while if you see this :)
-
-[![Support Me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nriver)
-
 **Enhance Your Experience**
 
 Experience Enhancement Kit for Trilium Notes
@@ -17,6 +11,21 @@ My Trilium is quite different from yours :) I'm here to share some of my creatio
 # Enhancements
 
 ## Color Enhancements
+
+### New Note Button
+
+Move the add note button to the front, in case the `horizontal scrollbar for note tree` makes the button go out of the panel. Also, the possibility of hitting the new note button by mistake is reduced.
+
+Default:
+
+![](docs/new-note-button-default.webp)
+
+Enhanced:
+
+![](docs/trilium-notes-new-button.png)
+
+Updated by MeLkOr
+
 
 ### Title Background
 
@@ -82,20 +91,6 @@ Enhanced:
 
 From https://github.com/zadam/trilium/discussions/4706, thanks to SiriusXT
 
-### New Note Button
-
-Move the add note button to the front, in case the `horizontal scrollbar for note tree` makes the button go out of the panel. Also, the possibility of hitting the new note button by mistake is reduced.
-
-Default:
-
-![](docs/new-note-button-default.webp)
-
-Enhanced:
-
-![](docs/new-note-button.webp)
-
-By Nriver
-
 ### Wide Quick Search
 
 Quick search with no width limit. You can see everything now.
@@ -128,16 +123,3 @@ By Nriver
 # Why I Made This?
 
 Trilium is great. There are some little tweaks I can do to make it greater. And here we are.
-
-# Donation
-
-Hello! If you appreciate my creations, kindly consider backing me. Your support is greatly appreciated. Thank you!
-
-Ko-fi:  
-[![Support Me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nriver)
-
-Alipay:  
-![Alipay](https://github.com/Nriver/trilium-translation/raw/main/docs/alipay.png)
-
-WeChat Pay:  
-![WeChat Pay](https://github.com/Nriver/trilium-translation/raw/main/docs/wechat_pay.png)
