@@ -3,18 +3,53 @@
     move add note button to front, in case `horizontal scrollbar for note tree` makes the button out of the panel
 
     by Nriver
+    Updated for MeLkOr 10.2024
 */
 .desktop .add-note-button{
     position: absolute;
-    left: -1;
-    margin-left: 12px !important;
+    left: 6px;
+    top: -4px;
+    margin-left: -9px !important;
+    margin-right: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    color: green !important;
+    text-shadow: 0 0 green !important;
+    cursor: cell !important;
+    border: 1px solid #28a745 !important;
+    border-radius: var(--button-border-radius) !important;
 }
-
+.desktop .fancytree-expander{
+    margin-right: -8px;
+    padding-left: 8px !important;
+    color: #05a !important;
+    text-shadow: 0 0 white !important;
+    cursor: zoom-in !important;
+}
+.desktop .fancytree-expander:active{
+    cursor: zoom-out !important;
+}
 .mobile .add-note-button{
     position: absolute;
-    left: -1;
-    margin-left: 28px !important;
+    left: 6px;
+    top: -4px;
+    margin-left: -9px !important;
+    margin-right: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    color: green !important;
+    text-shadow: 0 0 green !important;
+    cursor: cell !important;
+    border: 1px solid #28a745 !important;
+    border-radius: var(--button-border-radius) !important;
 }
 .mobile .fancytree-expander{
     margin-right: 20px;
+    padding-left: 20px !important;
+    color: #05a !important;
+    text-shadow: 0 0 white !important;
+    cursor: zoom-in !important;
+}
+.mobile .fancytree-expander:active{
+    cursor: zoom-out !important;
 }

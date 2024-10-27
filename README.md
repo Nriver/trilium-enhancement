@@ -92,9 +92,10 @@ Default:
 
 Enhanced:
 
-![](docs/new-note-button.webp)
+![](docs/trilium-notes-new-button.png)
 
-By Nriver
+Updated by MeLkOr (Original By Nriver)
+
 
 ### Wide Quick Search
 
