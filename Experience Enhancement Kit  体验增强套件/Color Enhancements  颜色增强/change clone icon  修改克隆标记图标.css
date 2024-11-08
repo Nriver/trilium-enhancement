@@ -1,0 +1,15 @@
+/*
+    修改笔记克隆图标为DNA图标，同时修改为 沙褐色 ，这样在明亮和黑暗的主题里都能清楚显示
+    Change note clone icon to DNA symbol with `sandy brown` color which displays clearly in both light theme and drak theme
+    by Nriver
+*/
+
+span.fancytree-node.multiple-parents .fancytree-title::after {
+    font-family: 'boxicons' !important;
+    font-size: 100% !important;
+    color: sandybrown !important;
+    /* original "\ec27" is `bx-star` */
+    /* `\ec5a` is `bx-unite` */
+    /* `\eea7` is `bx-dna` */
+    content: " \eaa7" !important;
+}

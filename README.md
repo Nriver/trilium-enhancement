@@ -68,6 +68,31 @@ Enhanced:
 
 By Nriver
 
+### Edited Note List
+
+Default:
+
+![](docs/edited-note-list-default.webp)
+
+Enhanced:
+
+![](docs/edited-note-list.webp)
+
+
+Moded from https://github.com/zadam/trilium/discussions/2670, thanks to wouterbatelaan-es!
+
+### Change Clone Icon
+
+Change note clone icon to DNA symbol with `sandy brown` color which displays clearly in both light theme and dark theme.
+
+Default:
+
+![](docs/clone-icon-default.webp)
+
+Enhanced:
+
+![](docs/clone-icon.webp)
+
 ## Action Enhancements
 
 ### Note Tree Scroll Bar

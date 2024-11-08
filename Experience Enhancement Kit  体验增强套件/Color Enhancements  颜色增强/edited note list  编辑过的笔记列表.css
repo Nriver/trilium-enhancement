@@ -1,0 +1,18 @@
+/*
+    Moded from https://github.com/zadam/trilium/discussions/2670
+    Edited note display in list
+    Thanks to wouterbatelaan-es
+    Mod by Nriver
+*/
+
+.edited-notes-list > .edited-note-line {
+    display: list-item;
+    margin-left: 10px;
+    list-style-type: none;
+    border-bottom: 1px solid var(--main-text-color);
+    padding: 4px;
+}
+/* 最后一个不显示底部边框 */
+.edited-notes-list > .edited-note-line:last-child {
+    border-bottom: none;
+}
