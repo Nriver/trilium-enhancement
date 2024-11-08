@@ -40,7 +40,7 @@ Trilium Notes 的体验增强工具包
 
 ![](docs/calendar.webp)
 
-改编自 https://github.com/Nriver/awesome-trilium/issues/30，感谢 XXXJetfireXXX！
+改编自 https://github.com/Nriver/awesome-trilium/issues/30, 感谢 XXXJetfireXXX！
 
 ### @ 选项
 
@@ -65,6 +65,33 @@ Trilium Notes 的体验增强工具包
 增强:
 
 ![](docs/note-clone-path.webp)
+
+由 Nriver 提供
+
+### 编辑的笔记列表
+
+默认:
+
+![](docs/edited-note-list-default.webp)
+
+增强:
+
+![](docs/edited-note-list.webp)
+
+
+改编自 from https://github.com/zadam/trilium/discussions/2670, 感谢 wouterbatelaan-es!
+
+### 修改克隆笔记图标
+
+修改笔记克隆图标为DNA图标，同时修改为 沙褐色 ，这样在明亮和黑暗的主题里都能清楚显示
+
+默认:
+
+![](docs/clone-icon-default.webp)
+
+增强:
+
+![](docs/clone-icon.webp)
 
 由 Nriver 提供
 

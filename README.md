@@ -93,6 +93,8 @@ Enhanced:
 
 ![](docs/clone-icon.webp)
 
+By Nriver
+
 ## Action Enhancements
 
 ### Note Tree Scroll Bar
